@@ -1,5 +1,5 @@
 header {
-  background-image: url(img/bg.jpg);
+  background-image: url(bg.jpg);
   padding: 10px 0px; /*space around element inside borders*/
   transition: 0.5s;
 }
@@ -217,7 +217,7 @@ h2 {
 
 footer {
   text-align: center;
-  background-image: url("img/bg.jpg");
+  background-image: url("bg.jpg");
   line-height: 2;
   margin-top: -5px;
 }
